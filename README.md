@@ -17,8 +17,15 @@ Bachelors in Computer Science, Major in Data science<br/>
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 
+### Conference:
+
+
 ### Certifications
 - **Specialization Google Data Analytics**_ Coursera
+- **Business Intelligence**
+- **Machine Learning**
+- **Neural Networks and Deep Learning**
+- **Big Data**
 
 <!--
 
