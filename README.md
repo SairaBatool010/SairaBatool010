@@ -1,6 +1,13 @@
-## Hi there 👋
+## Hello 👋 Hello, I'm Saira Batool
+
+📍 Singapore
+📧 Email: contact@sajalsharma.com
+🔗 LinkedIn: sajals
+👨‍💻 GitHub: sajal2692
 
 <!--
+
+
 **SairaBatool010/SairaBatool010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
