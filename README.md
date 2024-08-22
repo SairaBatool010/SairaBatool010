@@ -1,16 +1,14 @@
 ## 👋 Hello, I'm Saira Batool
 
-# About
-Computer Science student majoring in Data Science and working as a Data Analyst. Passionate about leveraging data to solve real-world problems and constantly exploring new techniques in the field.
-
 📍 Pakistan<br/>
 📧 Email: sairabtl2001@gmail.com<br/>
 🔗 LinkedIn: sairabtl<br/>
 👨‍💻 GitHub: SairaBatool010<br/>
 
+### About
+Computer Science student majoring in Data Science and working as a Data Analyst. Passionate about leveraging data to solve real-world problems and constantly exploring new techniques in the field.
 
-
-# Education 🎓
+### Education 🎓
 Bachelors in Computer Science, Major in Data science<br/>
 <!--
 
