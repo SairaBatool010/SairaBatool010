@@ -1,9 +1,9 @@
 ## Hello 👋 Hello, I'm Saira Batool
 
-📍 Singapore<br/>
-📧 Email: contact@sajalsharma.com<br/>
-🔗 LinkedIn: sajals<br/>
-👨‍💻 GitHub: sajal2692<br/>
+📍 Pakistan<br/>
+📧 Email: sairabtl2001@gmail.com<br/>
+🔗 LinkedIn: sairabtl<br/>
+👨‍💻 GitHub: SairaBatool010<br/>
 
 <!--
 
