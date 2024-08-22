@@ -1,10 +1,13 @@
-## Hello 👋 Hello, I'm Saira Batool
+## 👋 Hello, I'm Saira Batool
+
 
 📍 Pakistan<br/>
 📧 Email: sairabtl2001@gmail.com<br/>
 🔗 LinkedIn: sairabtl<br/>
 👨‍💻 GitHub: SairaBatool010<br/>
 
+# Education 🎓
+Bachelors in Computer Science, Major in Data science<br/>
 <!--
 
 
