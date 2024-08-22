@@ -16,6 +16,10 @@ Bachelors in Computer Science, Major in Data science<br/>
 - **Data Visualization:** Tableau, Power BI
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
+
+### Certifications
+- **Specialization Google Data Analytics_ Coursera
+
 <!--
 
 
