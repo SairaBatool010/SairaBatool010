@@ -18,7 +18,7 @@ Bachelors in Computer Science, Major in Data science<br/>
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 
 ### Certifications
-- **Specialization Google Data Analytics_ Coursera
+- **Specialization Google Data Analytics**_ Coursera
 
 <!--
 
