@@ -18,8 +18,9 @@ Bachelors in Computer Science, Major in Data science<br/>
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 
 ### Conference:
-###7th annual Andrew P.Sage Memorial Capstone Design Competition (Fairfax, Virginia, USA)      23-April-2024
+### 7th annual Andrew P.Sage Memorial Capstone Design Competition (Fairfax, Virginia, USA)      23-April-2024
 - Presented a research paper on "Temperament-Driven Food Recommender System: Empowering Healthful Eating Choices" and developed a mobile application for its demo at George Mason University's Fairfax campus, aimed to address health issues and create an impact in the health domain.
+
 
 ### Certifications
 - **Specialization Google Data Analytics**_ Coursera
