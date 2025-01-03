@@ -13,7 +13,8 @@ Bachelors in Computer Science, Major in Data science<br/>
 ### Technical Skills
 - **Programming Languages:** Python, SQL, Java
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, Matplotlib, Excel
-- **Data Visualization:** Tableau, Power BI
+- **Big Data Tools:** HDFS, Hbase, Apache Spark, Kafka, Airflow, Redis
+- **Data Visualization:** Tableau, Power BI, Streamlit
 - **Machine Learning:** Scikit-learn, TensorFlow, Keras
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 
