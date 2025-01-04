@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Saira Batool
 
 📍 Pakistan<br/>
-📧 Email: sairabtl2001@gmail.com<br/>
+📧 Email: sairabtl8642@gmail.com<br/>
 🔗 LinkedIn: saira-batool-iba<br/>
 👨‍💻 GitHub: SairaBatool010<br/>
 
