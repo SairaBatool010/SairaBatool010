@@ -23,7 +23,7 @@ Bachelors in Computer Science, Major in Data science<br/>
 - Presented a research paper on "Temperament-Driven Food Recommender System: Empowering Healthful Eating Choices" and developed a mobile application for its demo at George Mason University's Fairfax campus, aimed to address health issues and create an impact in the health domain.
 
 
-### Certifications
+### Certifications/courses
 - **Specialization Google Data Analytics**_ Coursera
 - **Business Intelligence**
 - **Machine Learning**
