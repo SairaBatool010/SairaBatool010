@@ -6,10 +6,11 @@
 👨‍💻 GitHub: SairaBatool010<br/>
 
 ### About
-Computer Science student majoring in Data Science and working as a Data Analyst. Passionate about leveraging data to solve real-world problems and constantly exploring new techniques in the field.
+Master's Student majoring in Data Science and working as a major product-working student @Siemens Gamesa. Passionate about leveraging data to solve real-world problems and constantly exploring new techniques in the field.
 
 ### Education 🎓
-Bachelors in Computer Science, Major in Data science<br/>
+Masters in Data Science @TUHH, Hamburg, Germany
+Bachelors in Computer Science from IBA Karachi, Pakistan<br/>
 ### Technical Skills
 - **Programming Languages:** Python, SQL, Java
 - **Data Analysis:** Pandas, NumPy, Scikit-learn, Matplotlib, Excel
